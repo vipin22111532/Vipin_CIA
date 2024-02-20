@@ -11,7 +11,7 @@
 		<title>Notices</title>
 
 		<!-- Favicon -->
-		<link rel="icon" type="image/png" sizes="56x56" href="http://www.gbpec.edu.in/assets/images/logo_new.png">
+		<link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/logo.jpg">
 
 
 		<!-- Main style sheet -->
@@ -39,7 +39,7 @@
 			-->
 			<header class="theme-main-header">
 				<div class="container">
-					<a href="index.html" class="logo float-left tran4s"><img src="http://www.gbpec.edu.in/assets/images/logo_new.png" alt="Logo"></a>
+					<a href="index.html" class="logo float-left tran4s"><img src="images/fav-icon/logo.jpg" alt="Logo"></a>
 					
 					<!-- ========================= Theme Feature Page Menu ======================= -->
 					<nav class="navbar float-right theme-main-menu">
@@ -99,10 +99,10 @@
 			<section class="inner-page-banner">
 				<div class="opacity">
 					<div class="container">
-						<h2>G B PANT ENGINEERING COLLEGE</h2>
+						<h2>Connection Point College Hyderabad</h2>
 						<ul>
 							<li><a href="index.html">ABOUT US</a></li>
-							<li>:affiliated by IPU</li>
+							<li>:  </li>
 						</ul>
 					</div> <!-- /.container -->
 				</div> <!-- /.opacity -->
@@ -121,17 +121,17 @@
                     <h2>Latest NOtice</h2><br><br>
 
                     <ul>
-                        <li><a href="http://www.gbpec.edu.in/docs/NoticeAndUpdates/disable.pdf" class="tran3s active"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Post-matric Scholarship for Students with Disabilities</a></li>
-                        <li><a href="http://www.gbpec.edu.in/docs/NoticeAndUpdates/postmatric1.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Financial Assistance for Education of the Wards of Beedi_Cine_IOMC_LSDM Workers - Post-Matric</a></li>
-                        <li><a href="http://www.gbpec.edu.in/docs/NoticeAndUpdates/PM.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> PRIME MINISTER�S SCHOLARSHIP SCHEME for RPF</a></li>
-                        <li><a href="http://www.gbpec.edu.in/docs/NoticeAndUpdates/FAQ_MOMA.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> FAQ_MOMA</a></li>
-                        <li><a href="http://www.gbpec.edu.in/docs/NoticeAndUpdates/sector.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> CENTRAL SECTOR SCHEME OF SCHOLARSHIP</a></li>
-                        <li><a href="http://www.gbpec.edu.in/docs/NoticeAndUpdates/Result.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Central Armed Police Forces & Assam Rifles</a></li>
-                        <li><a href="http://www.gbpec.edu.in/docs/NoticeAndUpdates/Invitation%20for%20India%20InternationalScience%20Festival.jpeg" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Invitation for India International Science Festival</a></li>
-                        <li><a href="http://www.gbpec.edu.in/docs/NoticeAndUpdates/Result.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Result For Walk-in-Interview held on Aug 27-28 2018</a></li>
-                        <li><a href="http://www.gbpec.edu.in/docs/NoticeAndUpdates/sessional%20exam-Intimation%20for%20backpaper.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Sessional Exam-Intimation for back paper</a></li>
-                        <li><a href="http://www.gbpec.edu.in/docs/NoticeAndUpdates/MoMA_Post_Matric_2018-20.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Notice-POST-MATRIC SCHOLARSHIP</a></li>
-                        <li><a href="http://www.gbpec.edu.in/docs/NoticeAndUpdates/MoMA_MCM_2018-20.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Notice-MERIT CUM MEANS BASED SCHOLARSHIP</a></li>
+                        <li><a href="http://www.Connection Point College Hyderabad.edu.in/docs/NoticeAndUpdates/disable.pdf" class="tran3s active"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Post-matric Scholarship for Students with Disabilities</a></li>
+                        <li><a href="http://www.Connection Point College Hyderabad.edu.in/docs/NoticeAndUpdates/postmatric1.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Financial Assistance for Education of the Wards of Beedi_Cine_IOMC_LSDM Workers - Post-Matric</a></li>
+                        <li><a href="http://www.Connection Point College Hyderabad.edu.in/docs/NoticeAndUpdates/PM.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> PRIME MINISTER�S SCHOLARSHIP SCHEME for RPF</a></li>
+                        <li><a href="http://www.Connection Point College Hyderabad.edu.in/docs/NoticeAndUpdates/FAQ_MOMA.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> FAQ_MOMA</a></li>
+                        <li><a href="http://www.Connection Point College Hyderabad.edu.in/docs/NoticeAndUpdates/sector.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> CENTRAL SECTOR SCHEME OF SCHOLARSHIP</a></li>
+                        <li><a href="http://www.Connection Point College Hyderabad.edu.in/docs/NoticeAndUpdates/Result.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Central Armed Police Forces & Assam Rifles</a></li>
+                        <li><a href="http://www.Connection Point College Hyderabad.edu.in/docs/NoticeAndUpdates/Invitation%20for%20India%20InternationalScience%20Festival.jpeg" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Invitation for India International Science Festival</a></li>
+                        <li><a href="http://www.Connection Point College Hyderabad.edu.in/docs/NoticeAndUpdates/Result.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Result For Walk-in-Interview held on Aug 27-28 2024</a></li>
+                        <li><a href="http://www.Connection Point College Hyderabad.edu.in/docs/NoticeAndUpdates/sessional%20exam-Intimation%20for%20backpaper.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Sessional Exam-Intimation for back paper</a></li>
+                        <li><a href="http://www.Connection Point College Hyderabad.edu.in/docs/NoticeAndUpdates/MoMA_Post_Matric_2024-20.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Notice-POST-MATRIC SCHOLARSHIP</a></li>
+                        <li><a href="http://www.Connection Point College Hyderabad.edu.in/docs/NoticeAndUpdates/MoMA_MCM_2024-20.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Notice-MERIT CUM MEANS BASED SCHOLARSHIP</a></li>
                     </ul>
                     <hr>
                     <hr>
@@ -171,7 +171,7 @@
 $(document).ready(function(){
   $("#TableInput").on("keyup", function() {
     var value = $(this).val().toLowerCase();
-    $("#GbpecTable tr").filter(function() {
+    $("#Connection Point College HyderabadTable tr").filter(function() {
       $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
     });
   });
@@ -193,49 +193,49 @@ $(document).ready(function(){
 						<th>NOTICES</th>
 					  </tr>
 					</thead>
-					<tbody id = "GbpecTable">
+					<tbody id = "Connection Point College HyderabadTable">
 					  <tr>
 						<td><strong>22/09/10</strong></td>
 						<td class = "academics">academics</td>
 						<td>CSE time table</td>
 					  </tr>
 					  <tr>
-						<td><strong>22/09/2018</strong></td>
+						<td><strong>22/09/2024</strong></td>
 						<td class = "Financial">Financial</td>
 						<td>SBI fee link</td>
 					  </tr>
 					  <tr>
-						<td><strong>23/08/2018</strong></td>
+						<td><strong>23/08/2024</strong></td>
 						<td class = "Schlorship">Schlorship</td>
-						<td><a href="http://www.gbpec.edu.in/docs/NoticeAndUpdates/disable.pdf" class="tran3s active"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Post-matric Scholarship for Students with Disabilities</a></td>
+						<td><a href="http://www.Connection Point College Hyderabad.edu.in/docs/NoticeAndUpdates/disable.pdf" class="tran3s active"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Post-matric Scholarship for Students with Disabilities</a></td>
 					  </tr>
 					  <tr>
-						<td><strong>24/08/2018</strong></td>
+						<td><strong>24/08/2024</strong></td>
 						<td class = "Schlorship">Scholarship</td>
-						<td><a href="http://www.gbpec.edu.in/docs/NoticeAndUpdates/MoMA_MCM_2018-20.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Notice-MERIT CUM MEANS BASED SCHOLARSHIP</a></td>
+						<td><a href="http://www.Connection Point College Hyderabad.edu.in/docs/NoticeAndUpdates/MoMA_MCM_2024-20.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Notice-MERIT CUM MEANS BASED SCHOLARSHIP</a></td>
 					  </tr>					
 					  <tr>
-						<td><strong>24/08/2018</strong></td>
+						<td><strong>24/08/2024</strong></td>
 						<td class = "Announcement">Announcement</td>
-						<td> <a href="http://www.gbpec.edu.in/docs/NoticeAndUpdates/Result.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Result For Walk-in-Interview held on Aug 27-28 2018</td>
+						<td> <a href="http://www.Connection Point College Hyderabad.edu.in/docs/NoticeAndUpdates/Result.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Result For Walk-in-Interview held on Aug 27-28 2024</td>
 					  </tr>
 					  <tr>
-						<td><strong>24/08/2018</strong></td>
+						<td><strong>24/08/2024</strong></td>
 						<td class = "Schlorship">Schlorship</td>						
-						<td><a href="http://www.gbpec.edu.in/docs/NoticeAndUpdates/PM.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> PRIME MINISTER�S SCHOLARSHIP SCHEME for RPF</a></td>
+						<td><a href="http://www.Connection Point College Hyderabad.edu.in/docs/NoticeAndUpdates/PM.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> PRIME MINISTER�S SCHOLARSHIP SCHEME for RPF</a></td>
 					  </tr>
 					  <tr>
-						<td><strong>25/08/2018</strong></td>
+						<td><strong>25/08/2024</strong></td>
 						<td class = "time-table">time-table</td>
-						<td><a href="http://www.gbpec.edu.in/docs/NoticeAndUpdates/sessional%20exam-Intimation%20for%20backpaper.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Sessional Exam-Intimation for back paper</a></td>
+						<td><a href="http://www.Connection Point College Hyderabad.edu.in/docs/NoticeAndUpdates/sessional%20exam-Intimation%20for%20backpaper.pdf" class="tran3s"><i class="fa fa-hand-o-right" aria-hidden="true"></i> Sessional Exam-Intimation for back paper</a></td>
 					  </tr>
 					  <tr>
-						<td><strong>24/05/2018</strong></td>
+						<td><strong>24/05/2024</strong></td>
 						<td class = "event"> event</td>
 						<td>Inceptum</td>
 					  </tr>
 					  <tr>
-						<td><strong>24/06/2018</strong></td>
+						<td><strong>24/06/2024</strong></td>
 						<td class =  "workshop">workshop</td>
 						<td>python workshop</td>
 					  </tr>
@@ -557,7 +557,7 @@ tbody:hover tr:hover td {
 				<ul class="m-b-70">
 					<li class="txt14 m-b-14">
 						<i class="fa fa-map-marker fs-16 dis-inline-block size19" aria-hidden="true"></i>
-						G B Pant Government Engineering College 110020 - New Delhi
+						Connection Point College Hyderabad
 					</li>
 
 					<li class="txt14 m-b-14">
@@ -567,7 +567,7 @@ tbody:hover tr:hover td {
 <br>
 					<li class="txt14 m-b-14">
 						<i class="fa fa-envelope fs-13 dis-inline-block size19" aria-hidden="true"></i>
-						principal@gbpec.edu.in
+						principal@Connection Point College Hyderabad.edu.in
 					</li>
 				</ul>
 
@@ -747,7 +747,7 @@ tbody:hover tr:hover td {
 				</div>
 
 				<div class="txt17 p-r-20 p-t-5 p-b-5">
-					Copyright &copy; 2018 All rights reserved  |  This template is made with <i class="fa fa-heart"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+					Copyright &copy; 2024 All rights reserved  |  This template is made with <i class="fa fa-heart"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
 				</div>-->
 			</div>
 		</div>

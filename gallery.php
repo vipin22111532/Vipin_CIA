@@ -9,10 +9,10 @@
   <!-- For Resposive Device -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>GB PANT GOVERNMENT ENGINEERING COLLEGE</title>
+  <title>Connection Point College Hyderabad</title>
 
   <!-- Favicon -->
-  <link rel="icon" type="image/png" sizes="56x56" href="http://www.gbpec.edu.in/assets/images/logo_new.png">
+  <link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/logo.jpg">
 
 
   <!-- Main style sheet -->
@@ -61,7 +61,7 @@
 
   <header class="theme-main-header">
     <div class="container">
-      <a href="index.html" class="logo float-left tran4s"><img src="http://www.gbpec.edu.in/assets/images/logo_new.png" alt="Logo"></a>
+      <a href="index.html" class="logo float-left tran4s"><img src="images/fav-icon/logo.jpg" alt="Logo" style="width:60px></a>
       
       <!-- ========================= Theme Feature Page Menu ======================= -->
       <nav class="navbar float-right theme-main-menu">
@@ -78,7 +78,7 @@
            <ul class="nav navbar-nav">
                <li class="active"><a href="#">HOME</a></li>
           <li><a href="about.html">ABOUT</a></li>
-          <li><a href="notice.html">NOTICES</a></li>
+           
       <!--		<li><a href="index.html#project-section">SOCI</a></li>-->
           <li><a href="agenda/index.html">EVENTS</a>
           <ul class="sub-menu">
@@ -121,10 +121,10 @@
   <section class="inner-page-banner">
     <div class="opacity">
       <div class="container">
-        <h2>G B PANT ENGINEERING COLLEGE</h2>
+        <h2>Connection Point College Hyderabad</h2>
         <ul>
           <li><a href="index.html">ABOUT US</a></li>
-          <li>:affiliated by IPU</li>
+          <li>:  </li>
         </ul>
       </div> <!-- /.container -->
     </div> <!-- /.opacity -->
@@ -298,7 +298,7 @@
 				<ul class="m-b-70">
 					<li class="txt14 m-b-14">
 						<i class="fa fa-map-marker fs-16 dis-inline-block size19" aria-hidden="true"></i>
-						G B Pant Government Engineering College 110020 - New Delhi
+						Connection Point College Hyderabad
 					</li>
 
 					<li class="txt14 m-b-14">
@@ -308,7 +308,7 @@
 <br>
 					<li class="txt14 m-b-14">
 						<i class="fa fa-envelope fs-13 dis-inline-block size19" aria-hidden="true"></i>
-						principal@gbpec.edu.in
+						principal@Connection Point College Hyderabad.edu.in
 					</li>
 				</ul>
 
@@ -488,7 +488,7 @@
 				</div>
 
 				<div class="txt17 p-r-20 p-t-5 p-b-5">
-					Copyright &copy; 2018 All rights reserved  |  This template is made with <i class="fa fa-heart"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+					Copyright &copy; 2024 All rights reserved  |  This template is made with <i class="fa fa-heart"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
 				</div>-->
 			</div>
 		</div>
